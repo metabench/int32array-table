@@ -1,0 +1,15 @@
+{
+    "name": "int32array-table",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "fnl": "^0.0.36",
+        "lang-mini": "^0.0.40",
+        "obext": "^0.0.31"
+    },
+    "devDependencies": {},
+    "version": "0.0.2",
+    "scripts": {
+        "test": "node test/run_all_tests.js"
+    }
+}
